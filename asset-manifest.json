@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/longvd2111/WebPhoneDemo/static/css/main.d5289b2f.css",
+    "main.js": "/longvd2111/WebPhoneDemo/static/js/main.73a8c736.js",
+    "index.html": "/longvd2111/WebPhoneDemo/index.html",
+    "main.d5289b2f.css.map": "/longvd2111/WebPhoneDemo/static/css/main.d5289b2f.css.map",
+    "main.73a8c736.js.map": "/longvd2111/WebPhoneDemo/static/js/main.73a8c736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.73a8c736.js"
+  ]
+}
